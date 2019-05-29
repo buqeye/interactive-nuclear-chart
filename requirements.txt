@@ -1,10 +1,10 @@
-dash>=0.39.0
-dash_bootstrap_components>=0.3.6
-dash-core-components>=0.44.0
-dash-daq>=0.1.0
-dash-html-components>=0.14.0
-dash-renderer>=0.20.0
-dash-table>=3.6.0
+dash==0.39.0
+dash_bootstrap_components==0.3.6
+dash-core-components==0.44.0
+dash-daq==0.1.0
+dash-html-components==0.14.0
+dash-renderer==0.20.0
+dash-table==3.6.0
 gunicorn>=19.9.0
 matplotlib>=3.0.3
 numpy>=1.16.2
