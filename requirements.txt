@@ -1,4 +1,4 @@
-dash==0.39.0
+dash==2.15.0
 dash_bootstrap_components==0.3.6
 dash-core-components==0.44.0
 dash-daq==0.1.0
